@@ -1,0 +1,9 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.env
